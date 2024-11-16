@@ -2,6 +2,8 @@
 
 Welcome to my personal website repository! This project showcases my profile, interests, and projects. It is my first attempt at making a website (way harder than I thought).
 
+Github Pages: [https://changkevin51.github.io](https://changkevin51.github.io)
+
 ## Features
 
 - Profile picture and personal information
